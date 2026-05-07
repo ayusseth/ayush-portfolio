@@ -293,7 +293,7 @@ export default function Hero() {
 
           {/* DOWNLOAD RESUME */}
           <a
-            href="/Ayush_Seth_Resume.pdf"
+            href="/Ayush_Seth_Software_Engineer.pdf"
             download
           >
 
